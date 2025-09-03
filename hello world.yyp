@@ -50,7 +50,7 @@
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"id":{"name":"rmFase1vs1","path":"rooms/rmFase1vs1/rmFase1vs1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"id":{"name":"faze2","path":"sprites/faze2/faze2.yy",},},
+    {"id":{"name":"fase2","path":"sprites/fase2/fase2.yy",},},
     {"id":{"name":"MENU","path":"sprites/MENU/MENU.yy",},},
     {"id":{"name":"objbatao","path":"sprites/objbatao/objbatao.yy",},},
     {"id":{"name":"seta","path":"sprites/seta/seta.yy",},},
